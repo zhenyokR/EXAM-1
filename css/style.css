@@ -425,6 +425,10 @@ a {
   .info3_right {
     width: 100%;
   }
+.info2_left p,
+  .info3_left p{
+margin-right:0;
+}
   .feature {
     width: 100%;
     justify-content: space-around;
