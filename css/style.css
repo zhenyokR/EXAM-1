@@ -433,6 +433,7 @@ a {
     justify-content: center;
     align-items: center;
     gap: 50px;
+    text-align: center;
   }
   .contacts_data,
   .contacts_map {
